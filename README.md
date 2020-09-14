@@ -3,7 +3,7 @@ I am a... Front-end & Mobile app developer!
 
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjb94&layout=compact&hide=html,actionscript,php)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjb94&layout=compact&hide=html,actionscript,php,solidity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
