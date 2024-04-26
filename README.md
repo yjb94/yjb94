@@ -1,14 +1,11 @@
 ### 🎈I write codes to write less codes
-I am a... Front-end & Mobile app developer!
+Welcome to my place! As a frontend engineer specializing in React, I'm dedicated to crafting efficient code solutions that minimize redundancy and maximize productivity.
 
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjb94&layout=compact&hide=html,actionscript,php,solidity&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjb94&theme=github)
 
-<br/>
+### 🖥️ Experiences
+- Mobile app Development, STAYGE Labs (2021.10 ~ )
+- Mobile app Development, Creatrip (2020.10 ~ 2021.10)
+- Front-End Development, STAYGE Labs (2017.02 ~ 2020.08)
+- Sofware Engineer, Tiein Communications (2013.10 ~ 2015.02)
 
-[![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://www.notion.so/luckypear/Jong-Bae-Paul-Yun-84df22a244e244a0af392858a87f01ef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedIn)](https://www.linkedin.com/in/jaybe-yun-219448106/)
-[![StackShare](https://img.shields.io/badge/StackShare-%230690FA?logo=stackshare&logoColor=white)](https://stackshare.io/3riaeboda1128/my-stack)
