@@ -1,4 +1,5 @@
 [![mail](https://img.shields.io/badge/3.ria.eboda@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:3.ria.eboda@gmail.com)
+[![resume](https://img.shields.io/badge/Resume-000000?style=round-square&logo=Notion)](https://www.notion.so/luckypear/Resume-06d22150499e45cc901c034f7b069228)
 [![blog](https://img.shields.io/badge/Blog-5fb0b6?style=round-square&logo=Notion)](https://www.notion.so/luckypear/Lucky-Pear-58babfb58d0348d49b3a6b54968f6f82)
 [![linked-in](https://img.shields.io/badge/JB_Yun-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/jong-bae-yun-219448106/)
 
