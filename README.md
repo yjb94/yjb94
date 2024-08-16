@@ -9,7 +9,8 @@ Welcome to my place! As a frontend engineer specializing in React, I'm dedicated
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjb94&theme=github)
 
 ### 🖥️ Experiences
-- Mobile app Development, STAYGE Labs (2021.10 ~ )
+- Mobile app Development, Neosapience(typecast) (2024.08 ~ )
+- Mobile app Development, STAYGE Labs (2021.10 ~ 2024.05)
 - Mobile app Development, Creatrip (2020.10 ~ 2021.10)
 - Front-End Development, STAYGE Labs (2017.02 ~ 2020.08)
 - Sofware Engineer, Tiein Communications (2013.10 ~ 2015.02)
