@@ -6,11 +6,16 @@
 ### 🍭 Thoughtful and meticulous developer
 Welcome to my place :)
 
-As a frontend engineer specializing in React, I'm dedicated to crafting efficient code solutions that minimize redundancy and maximize productivity.
-From subtle interactions to phenomenal transitions, I strive to deliver frontend magic to users.
+#### About me
+- I use **React**, to maximize UI productivity and ensure efficient, modular code.
+- I use **React Native**, to give native-like UX while maintaining a shared codebase.
+- I love **animations and interactions**, to maximize usability, making the user experience more engaging, enjoyable, and immersive.
 
-I also enjoy exploring and sharing my personal insights on the philosophy of development through thoughtful writing.
-I like to learn new and cool things, share with my colleagues, and grow myself every single day.
+#### Writing
+- **Artworks**: about inspiration and creation process behind personal graphic artworks.
+- **Philosophy**: reflects my development philosophy and aspirations
+- **study notes**: for recording rather than remembering
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjb94&theme=github)
 
