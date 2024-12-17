@@ -4,7 +4,6 @@
 [![linked-in](https://img.shields.io/badge/JB_Yun-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/jong-bae-yun-219448106/)
 
 ### 🍭 Thoughtful and meticulous developer
-Welcome to my place :)
 > I am a Software engineer, focusing on user experiences.
 
 #### About me
@@ -17,6 +16,7 @@ Welcome to my place :)
 - **Philosophy**: reflects my development philosophy and aspirations
 - **Study notes**: for recording rather than remembering
 
+Welcome to my place :)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjb94&theme=github)
 
