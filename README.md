@@ -5,6 +5,7 @@
 
 ### 🍭 Thoughtful and meticulous developer
 Welcome to my place :)
+> I am a Software engineer, focusing on user experiences.
 
 #### About me
 - I use **React**, to maximize UI productivity and ensure efficient, modular code.
@@ -14,7 +15,7 @@ Welcome to my place :)
 #### Writing
 - **Artworks**: about inspiration and creation process behind personal graphic artworks.
 - **Philosophy**: reflects my development philosophy and aspirations
-- **study notes**: for recording rather than remembering
+- **Study notes**: for recording rather than remembering
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjb94&theme=github)
