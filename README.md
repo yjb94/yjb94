@@ -3,7 +3,7 @@
 [![blog](https://img.shields.io/badge/Blog-5fb0b6?style=round-square&logo=Notion)](https://www.notion.so/luckypear/Lucky-Pear-58babfb58d0348d49b3a6b54968f6f82)
 [![linked-in](https://img.shields.io/badge/JB_Yun-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/jong-bae-yun-219448106/)
 
-### 🍭 Thoughtful and meticulous developer
+### 🍭 User First Problem Solver, engineering based
 > I am a Software engineer, focusing on user experiences.
 
 #### About me
